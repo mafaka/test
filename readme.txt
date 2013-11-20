@@ -1,7 +1,1 @@
-yo mazafaka! =)
-
-webstorm integration
-
-template include
-
-fonts
+new text
