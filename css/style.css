@@ -15,7 +15,11 @@ a {
 p {
   margin: 10px 0;
 }
-p {
-  border-radius: 5px;
+ul {
+  list-style: none;
+}
+li {
   border: 1px solid #000;
+  margin: 5px;
+  border-radius: 5px;
 }
